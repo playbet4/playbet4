@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 ### Minha Atividade Recente no GitHub
 
-![GitHub activity snake](https://raw.githubusercontent.com/playbet4/playbet4/output/github-snake.svg)
+ ![GitHub activity snake]https://raw.githubusercontent.com/playbet4/playbet4/output/github-snake.svg
 on:
   schedule:
     # Roda a cada 12 horas para manter a animação atualizada
