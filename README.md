@@ -63,7 +63,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/wagner-franco-aa057611a/">
 <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
