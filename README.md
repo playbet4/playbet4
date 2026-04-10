@@ -1,78 +1,61 @@
-<h1 align="center">👋 Olá, eu sou o Wagner Franco</h1>
+<h1 align="center">👋 Olá, eu sou Wagner Franco</h1>
 
-<h3 align="center">
-🧠 Analista de Sistemas | 🤖 Automação com IA | ⚡ Vibe Coding & Low-Code
-</h3>
+<p align="center">
+💼 Analista de Sistemas • 🤖 AI Assisted Developer • 🗄️ Database Specialist
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🧠 Analista de Sistemas focado em soluções práticas
-- 🤖 Desenvolvimento assistido por Inteligência Artificial (Vibe Coding)
-- ⚡ Automação de processos e integrações
-- 🗄️ Experiência com bancos de dados e modelagem de dados
-- 📈 Transformando ideias em soluções rápidas usando IA
+Sou Analista de Sistemas focado em soluções modernas utilizando **Inteligência Artificial**, automação e desenvolvimento assistido por IA (Vibe Coding / Low Code).
+
+Atuo principalmente em:
+
+- 🤖 Desenvolvimento com IA
+- 🔗 Integração de Sistemas
+- 🗄️ Banco de Dados
+- ⚙️ Automação de Processos
+- 📊 Análise e otimização de sistemas
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,git,github,vscode"/>
-
-</p>
-
-**Principais áreas:**
-
-- Automação com Python + IA
-- Integração de sistemas
-- Banco de Dados
-- Low-Code / No-Code
-- Análise de requisitos
-- Soluções rápidas orientadas a negócio
-
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=playbet4&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playbet4&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=playbet4&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,git,github,vscode" />
 </p>
 
 ---
 
-## 🐍 Minha atividade no GitHub
+## 🐍 GitHub Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/playbet4/playbet4/output/github-snake-dark.svg"/>
+<img src="https://github.com/playbet4/playbet4/blob/output/github-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📊 Atividade no GitHub
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=playbet4&theme=github-dark" />
+</p>
 
+---
+
+## 🌎 Conecte-se comigo
+
+<p align="center">
 <a href="https://www.linkedin.com/in/wagner-franco-aa057611a/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
+LinkedIn
 </a>
-
 </p>
 
 ---
 
-## 👀 Visitantes do Perfil
+## ⚡ Sobre meu trabalho
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=playbet4&color=blue"/>
-</p>
+💡 Utilizo IA como acelerador de desenvolvimento, criando soluções práticas e eficientes sem depender exclusivamente do modelo tradicional Full Stack.
+
+🚀 Foco em resultado, automação e entrega de valor ao negócio.
