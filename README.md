@@ -47,11 +47,14 @@ Atuo principalmente em:
 ## 🌎 Conecte-se comigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/wagner-franco-aa057611a/">
-LinkedIn
-</a>
-</p>
+  <a href="https://www.linkedin.com/in/wagner-franco-aa057611a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Wagner%20Franco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="https://github.com/playbet4">
+    <img src="https://img.shields.io/badge/GitHub-playbet4-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ## ⚡ Sobre meu trabalho
