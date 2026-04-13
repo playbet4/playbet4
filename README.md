@@ -41,7 +41,7 @@ Atuação principal:
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,git,github,vscode,cursor,gemini"/>
 </p>
 
 ---
