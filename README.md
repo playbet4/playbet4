@@ -41,7 +41,10 @@ Atuação principal:
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,git,github,vscode,cursor,gemini"/>
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,git,github,vscode" />
+  <br>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
